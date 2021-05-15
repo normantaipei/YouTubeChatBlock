@@ -1,5 +1,6 @@
 # YouTubeChatBlock
 Alpha1.5
+Download all the file and play "YouTubeChatBlock(Alpha)"
 ## How to setup: ##
 ### 1.Get YouTube API key ###
 ![投影片2](https://user-images.githubusercontent.com/42707843/118356874-d904c100-b5a9-11eb-8b7a-e57de0f0f300.JPG)
