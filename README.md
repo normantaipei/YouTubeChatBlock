@@ -14,3 +14,10 @@ Alpha1.5
 ![投影片11](https://user-images.githubusercontent.com/42707843/118356897-e752dd00-b5a9-11eb-8252-be316e682db5.JPG)
 ![投影片12](https://user-images.githubusercontent.com/42707843/118356898-e8840a00-b5a9-11eb-83e0-8302c1410d35.JPG)
 ![投影片13](https://user-images.githubusercontent.com/42707843/118356899-ea4dcd80-b5a9-11eb-8383-70c6e7bdd0f5.JPG)
+### 2.Find "Video ID" ###
+![投影片2](https://user-images.githubusercontent.com/42707843/118357102-fc7c3b80-b5aa-11eb-9501-5dfa18888b5e.JPG)
+![投影片3](https://user-images.githubusercontent.com/42707843/118357104-fdad6880-b5aa-11eb-8f56-73a393a19ab8.JPG)
+![投影片4](https://user-images.githubusercontent.com/42707843/118357108-000fc280-b5ab-11eb-940c-1d6faeaa7149.JPG)
+![投影片5](https://user-images.githubusercontent.com/42707843/118357109-0140ef80-b5ab-11eb-99a3-5ff24fe84bea.JPG)
+![投影片6](https://user-images.githubusercontent.com/42707843/118357113-030ab300-b5ab-11eb-8ac1-21d8a1f8d41a.JPG)
+![投影片7](https://user-images.githubusercontent.com/42707843/118357116-04d47680-b5ab-11eb-808f-85c58c4e6f59.JPG)
